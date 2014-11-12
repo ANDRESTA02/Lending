@@ -1,0 +1,4 @@
+https://github.com/NoamB/sorcery/wiki/Reset-password
+
+
+para resetiar la contraseña
